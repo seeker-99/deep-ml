@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T06:15:57.234Z",
+  "generated_at": "2026-10-11T06:15:59.076Z",
   "items": {
     "problem:16": {
       "kind": "problem",
@@ -26,6 +26,32 @@
       "last_pushed_at": "2026-08-10T12:14:14.711Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-08-11T15:23:24.775Z",
+      "last_pushed_at": "2026-08-11T15:23:24.775Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-08-11T15:27:12.858Z",
+      "last_pushed_at": "2026-08-11T15:27:12.858Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
