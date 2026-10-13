@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T06:16:22.416Z",
+  "generated_at": "2026-10-13T04:53:45.254Z",
   "items": {
     "problem:16": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-10-12T06:16:21.329Z",
       "language": "sql",
       "lines": 4
+    },
+    "problem:1124": {
+      "kind": "problem",
+      "id": "1124",
+      "title": "Salary Difference Between Departments with Conditional Aggregation",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1124",
+      "path": "problems/1124-salary-difference-between-departments-with-conditional-aggregation",
+      "first_solved_at": "2026-10-13T04:53:44.819Z",
+      "last_pushed_at": "2026-10-13T04:53:44.819Z",
+      "language": "sql",
+      "lines": 8
     }
   }
 }
